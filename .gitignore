@@ -2,5 +2,6 @@ venv
 .idea
 css/bootstrap.css.map
 lesson
-css/.DS_store
+css/.DS_Store
+
 
